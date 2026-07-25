@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0067-add-binary) |
+| [0461-hamming-distance](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0461-hamming-distance) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Geometry
 |  |
