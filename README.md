@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0027-remove-element) |
+| [0039-combination-sum](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0048-rotate-image) |
 | [0217-contains-duplicate](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0219-contains-duplicate-ii) |
@@ -115,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
