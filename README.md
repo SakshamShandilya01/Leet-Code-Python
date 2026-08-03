@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0067-add-binary) |
 | [0223-rectangle-area](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0223-rectangle-area) |
+| [0326-power-of-three](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0326-power-of-three) |
 | [0415-add-strings](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0504-base-7) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0628-maximum-product-of-three-numbers) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0206-reverse-linked-list) |
+| [0326-power-of-three](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0326-power-of-three) |
 ## Dynamic Programming
 |  |
 | ------- |
