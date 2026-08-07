@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0048-rotate-image) |
+| [0078-subsets](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0219-contains-duplicate-ii) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0136-single-number) |
 | [0461-hamming-distance](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0461-hamming-distance) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0078-subsets) |
 ## Linked List
 |  |
 | ------- |
