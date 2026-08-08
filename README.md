@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2951-find-the-peaks](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/2951-find-the-peaks) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3731-find-missing-elements](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/3880-minimum-absolute-difference-between-two-values) |
 ## Enumeration
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0628-maximum-product-of-three-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0976-largest-perimeter-triangle) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3731-find-missing-elements](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0219-contains-duplicate-ii) |
+| [3731-find-missing-elements](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/3731-find-missing-elements) |
 ## Sliding Window
 |  |
 | ------- |
