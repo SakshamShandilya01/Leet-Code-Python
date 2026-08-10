@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0048-rotate-image) |
 | [0078-subsets](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0283-move-zeroes) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0628-maximum-product-of-three-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0976-largest-perimeter-triangle) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0219-contains-duplicate-ii) |
 | [3731-find-missing-elements](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/3731-find-missing-elements) |
@@ -198,5 +201,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0169-majority-element) |
 | [2833-furthest-point-from-origin](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/2833-furthest-point-from-origin) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
