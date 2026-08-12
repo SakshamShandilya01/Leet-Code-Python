@@ -2,7 +2,6 @@ class Solution(object):
     def passwordStrength(self, password):
         a = set(password)
         total = 0
-
         for i in a:
             if i.islower():
                 total+=1
