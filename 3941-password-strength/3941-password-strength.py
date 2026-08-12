@@ -1,23 +1,19 @@
 class Solution(object):
     def passwordStrength(self, password):
-        lower = set()
-        upper = set()
-        special = set()
-        digit = set()
-        special_char = "!@#$"
+        a = set(password)
+        total = 0
 
-        for i in password:
+        for i in a:
             if i.islower():
-                lower.add(i)
+                total+=1
             elif i.isupper():
-                upper.add(i)
+                total +=2
             elif i.isdigit():
-                digit.add(i)
-            elif i in special_char:
-                special.add(i)
+                total+=3
+            else:
+                total+=5
+        return total
 
-        strength = len(lower)*1 + len(upper)*2 + len(digit)*3 + len(special)*5
-        return strength
 
 
         
