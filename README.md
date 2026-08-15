@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0067-add-binary) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0012-integer-to-roman) |
 | [0169-majority-element](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0219-contains-duplicate-ii) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0012-integer-to-roman) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0067-add-binary) |
