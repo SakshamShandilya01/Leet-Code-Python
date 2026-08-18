@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2951-find-the-peaks](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/2951-find-the-peaks) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3731-find-missing-elements](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0219-contains-duplicate-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/3731-find-missing-elements) |
 | [3941-password-strength](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/3941-password-strength) |
 ## Sliding Window
