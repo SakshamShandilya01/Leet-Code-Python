@@ -1,6 +1,7 @@
 class Solution {
     public String multiply(String num1, String num2) {
-        if (num1.equals("0") || num2.equals("0")) return "0";
+        if (num1.equals("0") || num2.equals("0"))
+            return "0";
 
         int n = num1.length(), m = num2.length();
         int[] result = new int[n + m];
@@ -21,7 +22,8 @@ class Solution {
 
         StringBuilder sb = new StringBuilder();
         for (int digit : result) {
-            if (!(sb.length() == 0 && digit == 0)) sb.append(digit);
+            if (!(sb.length() == 0 && digit == 0))
+                sb.append(digit);
         }
         return sb.toString();
     }
