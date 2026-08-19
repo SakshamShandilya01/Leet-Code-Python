@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0012-integer-to-roman) |
+| [0043-multiply-strings](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0067-add-binary) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0415-add-strings) |
 | [1260-shift-2d-grid](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/1260-shift-2d-grid) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0012-integer-to-roman) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0168-excel-sheet-column-title) |
 | [0415-add-strings](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0415-add-strings) |
