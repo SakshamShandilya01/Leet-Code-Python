@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0976-largest-perimeter-triangle) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1510-stone-game-iv](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/1927-sum-game) |
 | [1952-three-divisors](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/2413-smallest-even-multiple) |
 | [2652-sum-multiples](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/2652-sum-multiples) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0504-base-7) |
 | [1108-defanging-an-ip-address](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/1108-defanging-an-ip-address) |
 | [1773-count-items-matching-a-rule](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/1773-count-items-matching-a-rule) |
+| [1927-sum-game](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/1927-sum-game) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2833-furthest-point-from-origin](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/2833-furthest-point-from-origin) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0976-largest-perimeter-triangle) |
+| [1927-sum-game](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Backtracking
 |  |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0877-stone-game](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/1927-sum-game) |
 ## String Matching
 |  |
 | ------- |
