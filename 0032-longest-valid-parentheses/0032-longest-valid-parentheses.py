@@ -4,29 +4,17 @@ class Solution(object):
         :type s: str
         :rtype: int
         """
+        stack = [-1]
         max_len = 0
-        open_count = close_count = 0
-        for ch in s:
-            if ch == '(':
-                open_count += 1
+
+        for i, c in enumerate(s):
+            if c == '(':
+                stack.append(i)
             else:
-                close_count += 1
-
-            if open_count == close_count:
-                max_len = max(max_len, 2 * close_count)
-            elif close_count > open_count:
-                open_count = close_count = 0
-
-        open_count = close_count = 0
-        for ch in reversed(s):
-            if ch == '(':
-                open_count += 1
-            else:
-                close_count += 1
-
-            if open_count == close_count:
-                max_len = max(max_len, 2 * open_count)
-            elif open_count > close_count:
-                open_count = close_count = 0
+                stack.pop()
+                if not stack:
+                    stack.append(i)
+                else:
+                    max_len = max(max_len, i - stack[-1])
 
         return max_len
