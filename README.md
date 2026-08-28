@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0237-delete-node-in-a-linked-list) |
+| [0707-design-linked-list](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -302,4 +303,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0032-longest-valid-parentheses) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
