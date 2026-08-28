@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0905-sort-array-by-parity) |
+| [0908-smallest-range-i](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0908-smallest-range-i) |
 | [0976-largest-perimeter-triangle](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0976-largest-perimeter-triangle) |
 | [1004-max-consecutive-ones-iii](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/1004-max-consecutive-ones-iii) |
 | [1260-shift-2d-grid](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/1260-shift-2d-grid) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0877-stone-game) |
+| [0908-smallest-range-i](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0908-smallest-range-i) |
 | [0976-largest-perimeter-triangle](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0976-largest-perimeter-triangle) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1510-stone-game-iv](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/1510-stone-game-iv) |
