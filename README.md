@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0168-excel-sheet-column-title) |
 | [0223-rectangle-area](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0223-rectangle-area) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0032-longest-valid-parentheses) |
+| [0062-unique-paths](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0062-unique-paths) |
 | [0877-stone-game](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/1510-stone-game-iv) |
 ## Game Theory
@@ -312,4 +314,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0707-design-linked-list) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
