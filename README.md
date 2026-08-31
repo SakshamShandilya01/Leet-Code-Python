@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0905-sort-array-by-parity) |
 | [0908-smallest-range-i](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0908-smallest-range-i) |
+| [0930-binary-subarrays-with-sum](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0930-binary-subarrays-with-sum) |
 | [0976-largest-perimeter-triangle](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0976-largest-perimeter-triangle) |
 | [1004-max-consecutive-ones-iii](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/1004-max-consecutive-ones-iii) |
 | [1037-valid-boomerang](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/1037-valid-boomerang) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0219-contains-duplicate-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0451-sort-characters-by-frequency) |
+| [0930-binary-subarrays-with-sum](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0930-binary-subarrays-with-sum) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0219-contains-duplicate-ii) |
+| [0930-binary-subarrays-with-sum](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/1004-max-consecutive-ones-iii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## String
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/1004-max-consecutive-ones-iii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Stack
