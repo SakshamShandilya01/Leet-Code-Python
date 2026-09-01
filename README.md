@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0169-majority-element) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0217-contains-duplicate) |
 | [0451-sort-characters-by-frequency](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0451-sort-characters-by-frequency) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0012-integer-to-roman) |
+| [0049-group-anagrams](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0219-contains-duplicate-ii) |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0168-excel-sheet-column-title) |
 | [0415-add-strings](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0415-add-strings) |
