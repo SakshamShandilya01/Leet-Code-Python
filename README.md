@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3875-construct-uniform-parity-array-i](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/3880-minimum-absolute-difference-between-two-values) |
+| [3903-smallest-stable-index-i](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/3903-smallest-stable-index-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/1004-max-consecutive-ones-iii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3903-smallest-stable-index-i](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/3903-smallest-stable-index-i) |
 ## Stack
 |  |
 | ------- |
