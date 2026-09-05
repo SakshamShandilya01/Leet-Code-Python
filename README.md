@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0039-combination-sum) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0027-remove-element) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0011-container-with-most-water) |
 | [0976-largest-perimeter-triangle](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0976-largest-perimeter-triangle) |
 | [1927-sum-game](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/2091-removing-minimum-and-maximum-from-array) |
