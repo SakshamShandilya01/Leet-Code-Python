@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0451-sort-characters-by-frequency) |
 | [0930-binary-subarrays-with-sum](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0930-binary-subarrays-with-sum) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/1004-max-consecutive-ones-iii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0168-excel-sheet-column-title) |
 | [0415-add-strings](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0415-add-strings) |
+| [0424-longest-repeating-character-replacement](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0451-sort-characters-by-frequency) |
 | [0504-base-7](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0504-base-7) |
 | [1108-defanging-an-ip-address](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/1108-defanging-an-ip-address) |
