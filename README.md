@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2951-find-the-peaks](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/2951-find-the-peaks) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/3731-find-missing-elements) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/1952-three-divisors) |
 | [2951-find-the-peaks](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/2951-find-the-peaks) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/3483-unique-3-digit-even-numbers) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/3880-minimum-absolute-difference-between-two-values) |
 ## Math
 |  |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0326-power-of-three) |
+| [3483-unique-3-digit-even-numbers](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/3483-unique-3-digit-even-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
