@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0877-stone-game) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0142-linked-list-cycle-ii) |
 | [0283-move-zeroes](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0905-sort-array-by-parity) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0905-sort-array-by-parity) |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0219-contains-duplicate-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0451-sort-characters-by-frequency) |
 | [0930-binary-subarrays-with-sum](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0930-binary-subarrays-with-sum) |
@@ -341,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0004-median-of-two-sorted-arrays) |
+| [0349-intersection-of-two-arrays](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0349-intersection-of-two-arrays) |
 | [1004-max-consecutive-ones-iii](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
