@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0089-gray-code) |
 | [0168-excel-sheet-column-title](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0168-excel-sheet-column-title) |
 | [0223-rectangle-area](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0223-rectangle-area) |
 | [0326-power-of-three](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0326-power-of-three) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0136-single-number) |
 | [0461-hamming-distance](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0461-hamming-distance) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0089-gray-code) |
 ## Linked List
 |  |
 | ------- |
