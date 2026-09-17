@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0136-single-number) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0169-majority-element) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0073-set-matrix-zeroes) |
 | [1260-shift-2d-grid](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/1260-shift-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Bit Manipulation
