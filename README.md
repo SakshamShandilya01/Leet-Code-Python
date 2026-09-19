@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0006-zigzag-conversion](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
