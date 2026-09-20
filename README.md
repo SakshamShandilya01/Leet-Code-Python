@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/1260-shift-2d-grid) |
 | [1929-concatenation-of-array](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3498-reverse-degree-of-a-string](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/3498-reverse-degree-of-a-string) |
 | [3941-password-strength](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/3941-password-strength) |
 ## Matrix
 |  |
