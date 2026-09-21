@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3524-find-x-value-of-array-i](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/3524-find-x-value-of-array-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3524-find-x-value-of-array-i](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/3524-find-x-value-of-array-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3870-count-commas-in-range](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/3870-count-commas-in-range) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0062-unique-paths) |
 | [0877-stone-game](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/1510-stone-game-iv) |
+| [3524-find-x-value-of-array-i](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/3524-find-x-value-of-array-i) |
 ## Game Theory
 |  |
 | ------- |
