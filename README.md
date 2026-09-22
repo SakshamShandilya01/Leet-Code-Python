@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0142-linked-list-cycle-ii) |
 | [0283-move-zeroes](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0876-middle-of-the-linked-list) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0287-find-the-duplicate-number) |
 | [0461-hamming-distance](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0461-hamming-distance) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -368,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0004-median-of-two-sorted-arrays) |
+| [0287-find-the-duplicate-number](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/1004-max-consecutive-ones-iii) |
@@ -409,4 +413,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
