@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1652-defuse-the-bomb](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/1652-defuse-the-bomb) |
 | [1773-count-items-matching-a-rule](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/1773-count-items-matching-a-rule) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1929-concatenation-of-array](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0451-sort-characters-by-frequency) |
 | [0930-binary-subarrays-with-sum](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0930-binary-subarrays-with-sum) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/3483-unique-3-digit-even-numbers) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/1108-defanging-an-ip-address) |
 | [1154-day-of-the-year](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/1154-day-of-the-year) |
 | [1773-count-items-matching-a-rule](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/1773-count-items-matching-a-rule) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/1927-sum-game) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/2114-maximum-number-of-words-found-in-sentences) |
