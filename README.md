@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0012-integer-to-roman) |
+| [0020-valid-parentheses](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0032-longest-valid-parentheses) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
