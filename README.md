@@ -419,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0032-longest-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0144-binary-tree-preorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/1021-remove-outermost-parentheses) |
@@ -467,4 +468,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0950-reveal-cards-in-increasing-order](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0950-reveal-cards-in-increasing-order) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
