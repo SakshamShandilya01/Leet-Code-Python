@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0089-gray-code) |
 | [0168-excel-sheet-column-title](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0168-excel-sheet-column-title) |
 | [0223-rectangle-area](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0223-rectangle-area) |
+| [0279-perfect-squares](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0326-power-of-three) |
 | [0415-add-strings](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0415-add-strings) |
 | [0492-construct-the-rectangle](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0492-construct-the-rectangle) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0032-longest-valid-parentheses) |
 | [0062-unique-paths](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0062-unique-paths) |
+| [0279-perfect-squares](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0279-perfect-squares) |
 | [0678-valid-parenthesis-string](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/1510-stone-game-iv) |
@@ -502,4 +504,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0014-longest-common-prefix) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0279-perfect-squares) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
