@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0073-set-matrix-zeroes) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0090-subsets-ii) |
