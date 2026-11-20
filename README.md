@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0844-backspace-string-compare](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0905-sort-array-by-parity) |
 | [2000-reverse-prefix-of-word](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/2000-reverse-prefix-of-word) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0415-add-strings) |
+| [0844-backspace-string-compare](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0844-backspace-string-compare) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1260-shift-2d-grid](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/1260-shift-2d-grid) |
 | [1929-concatenation-of-array](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/1929-concatenation-of-array) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0451-sort-characters-by-frequency) |
 | [0504-base-7](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0504-base-7) |
 | [0678-valid-parenthesis-string](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0678-valid-parenthesis-string) |
+| [0844-backspace-string-compare](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/1108-defanging-an-ip-address) |
@@ -446,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0032-longest-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0144-binary-tree-preorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0678-valid-parenthesis-string) |
+| [0844-backspace-string-compare](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/SakshamShandilya01/Leet-Code-Python/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
